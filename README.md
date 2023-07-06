@@ -1,2 +1,3 @@
 # recoil_clone_state_management_liibrary
-I created this for my personal project by referencing recoil.js library.
+
+I have created this personal project by referencing the Recoil.js library.
